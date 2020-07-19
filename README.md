@@ -1,3 +1,4 @@
 # Demo file
 
-Starting with git
+Starting with git!
+First change made.
